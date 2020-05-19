@@ -3,4 +3,6 @@
 using namespace std;
 
 int main(){
-cout << "hellow";}
+cout << "hellow";
+cout << "testo;
+cout << "gay";}
